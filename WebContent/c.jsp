@@ -8,7 +8,12 @@
 </head>
 <body>
 cccccccc
+<<<<<<< HEAD
 bbbbbbbbbb
 ccccccccccc
+=======
+cccccccc
+ddddddddddddd
+>>>>>>> refs/heads/develop3
 </body>
 </html>
